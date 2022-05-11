@@ -62,19 +62,19 @@ html {
 }
 
 .five {
-	background: #7D99B5
+	background: #558B6E;
 }
 
 .two {
-	background: #92C9B1	
+	background: #60A983;	
 }
 
 .four {
-	background: #4F759B;
+	background: #95C6AD;
 } 
 
 .one {
-	background: #A2FAA3;
+	background: #BBDACA;
 }
 
 .intro {
@@ -132,6 +132,6 @@ input {
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
-  background-color: #A2FAA3;
+  background-color: #BBDACA;
 }
 
